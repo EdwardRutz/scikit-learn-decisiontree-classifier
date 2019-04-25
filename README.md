@@ -24,6 +24,7 @@
 - Install dependencies
 - run, `python iris-machine-learning`
 
+<img src="iris-ml.png">
 
 ## Notes
 
