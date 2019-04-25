@@ -1,6 +1,6 @@
-# Decision Tree Classifier
+# Machine Learning Basics: Decision Tree Classifier
 
->Demo a decision tree model to classify a dataset of Iris flowers.
+>Machine Learning: demo a decision tree model to classify a dataset of Iris flowers.
 >-Reviews an iris dataset of petal dimensions and classify the species of iris.
 
 - Fundamental concepts in machine learning
@@ -47,16 +47,18 @@ classifier = tree.DecisionTreeClassifier()      # Build a classifier
 - An **example** is a single element in a dataset.
 - A **feature** is one characteristic of an example.
 
-### Reviews
+### Review/Kata
 
 - Write code to create a classifier.
-- Write code to load the iris flower dataset.Write
+- Write code to load the iris flower dataset.
 
 
 
 ## Sources
 
 - [Machine Learning Basics](https://teamtreehouse.com/library/machine-learning-basics)
+- [scikit-learn.org](https://scikit-learn.org/stable/)
+- [Wikipedia: Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 - [Docs: Classification](https://scikit-learn.org/stable/modules/tree.html#classification)
 - [Docs: sklearn.tree.DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier)
 - [Introduction to Anaconda](https://teamtreehouse.com/library/introduction-to-anaconda)
