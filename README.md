@@ -24,11 +24,11 @@
 - Install dependencies
 - run, `python iris-machine-learning`
 
-<img src="iris-ml.png">
+
 <p align="center">
   <img src="./iris-ml.png">
 </p>
-
+<p>The model classifies the first data as "1" (versicolor) and the second as "0" (setosa)
 
 
 ## Notes
