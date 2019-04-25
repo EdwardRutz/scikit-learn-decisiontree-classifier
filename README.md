@@ -25,6 +25,11 @@
 - run, `python iris-machine-learning`
 
 <img src="iris-ml.png">
+<p align="center">
+  <img src="./iris-ml.png">
+</p>
+
+
 
 ## Notes
 
