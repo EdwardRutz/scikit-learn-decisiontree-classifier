@@ -17,11 +17,11 @@
 - scikit-learn
 - Iris Flower Dataset (included with scikit-learn)
 
-
 ## Setup
 
 - Clone repo
-- Install dependencies
+- Install scikit-learn and all dependencies: `pip install -U scikit-learn[alldeps]`
+- For Anaconda Python users, load the "environmental.yml" file for dependencies.
 - run, `python iris-machine-learning`
 
 
