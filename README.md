@@ -28,7 +28,7 @@
 <p align="center">
   <img src="./iris-ml.png">
 </p>
-<p>The model classifies the first data as label "1" (species Iris versicolor) and the second as label "0" (Iris setosa)
+<p>The model classifies the first data as label "1" (species Iris versicolor) and the second as label "0" (Iris setosa)</p>
 
 
 ## Notes
